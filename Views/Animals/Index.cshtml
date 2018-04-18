@@ -1,10 +1,12 @@
 @model IEnumerable<SheepFit6.Models.Animal>
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Health Records -";
 }
 
-<h2>Index</h2>
+<h2>Health Records</h2>
+<h3>Last updated: @(System.DateTime.Now)</h3>
+
 
 <p>
     <a asp-action="Create">Create New</a>
