@@ -1,0 +1,10 @@
+/Users/edinacelic/Projects/SheepFit6/SheepFit6/bin/Debug/netcoreapp2.0/SheepFit6.deps.json
+/Users/edinacelic/Projects/SheepFit6/SheepFit6/bin/Debug/netcoreapp2.0/SheepFit6.runtimeconfig.json
+/Users/edinacelic/Projects/SheepFit6/SheepFit6/bin/Debug/netcoreapp2.0/SheepFit6.runtimeconfig.dev.json
+/Users/edinacelic/Projects/SheepFit6/SheepFit6/bin/Debug/netcoreapp2.0/SheepFit6.dll
+/Users/edinacelic/Projects/SheepFit6/SheepFit6/bin/Debug/netcoreapp2.0/SheepFit6.pdb
+/Users/edinacelic/Projects/SheepFit6/SheepFit6/obj/Debug/netcoreapp2.0/SheepFit6.csproj.CoreCompileInputs.cache
+/Users/edinacelic/Projects/SheepFit6/SheepFit6/obj/Debug/netcoreapp2.0/SheepFit6.AssemblyInfoInputs.cache
+/Users/edinacelic/Projects/SheepFit6/SheepFit6/obj/Debug/netcoreapp2.0/SheepFit6.AssemblyInfo.cs
+/Users/edinacelic/Projects/SheepFit6/SheepFit6/obj/Debug/netcoreapp2.0/SheepFit6.dll
+/Users/edinacelic/Projects/SheepFit6/SheepFit6/obj/Debug/netcoreapp2.0/SheepFit6.pdb
