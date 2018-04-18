@@ -8,14 +8,15 @@
 /Users/edinacelic/Projects/SheepFit6/SheepFit6/obj/Debug/netcoreapp2.0/SheepFit6.AssemblyInfo.cs
 /Users/edinacelic/Projects/SheepFit6/SheepFit6/obj/Debug/netcoreapp2.0/SheepFit6.dll
 /Users/edinacelic/Projects/SheepFit6/SheepFit6/obj/Debug/netcoreapp2.0/SheepFit6.pdb
-C:\ACCTMIS 3610\sheepfitfinal\bin\Debug\netcoreapp2.0\SheepFit6.deps.json
-C:\ACCTMIS 3610\sheepfitfinal\bin\Debug\netcoreapp2.0\SheepFit6.runtimeconfig.json
-C:\ACCTMIS 3610\sheepfitfinal\bin\Debug\netcoreapp2.0\SheepFit6.runtimeconfig.dev.json
-C:\ACCTMIS 3610\sheepfitfinal\bin\Debug\netcoreapp2.0\SheepFit6.dll
-C:\ACCTMIS 3610\sheepfitfinal\bin\Debug\netcoreapp2.0\SheepFit6.pdb
-C:\ACCTMIS 3610\sheepfitfinal\obj\Debug\netcoreapp2.0\SheepFit6.csproj.CoreCompileInputs.cache
-C:\ACCTMIS 3610\sheepfitfinal\obj\Debug\netcoreapp2.0\SheepFit6.AssemblyInfoInputs.cache
-C:\ACCTMIS 3610\sheepfitfinal\obj\Debug\netcoreapp2.0\SheepFit6.AssemblyInfo.cs
-C:\ACCTMIS 3610\sheepfitfinal\obj\Debug\netcoreapp2.0\SheepFit6.dll
-C:\ACCTMIS 3610\sheepfitfinal\obj\Debug\netcoreapp2.0\SheepFit6.pdb
-C:\ACCTMIS 3610\sheepfitfinal\obj\Debug\netcoreapp2.0\SheepFit6.csprojResolveAssemblyReference.cache
+C:/ACCTMIS 3610/sheepfitfinal/bin/Debug/netcoreapp2.0/SheepFit6.deps.json
+C:/ACCTMIS 3610/sheepfitfinal/bin/Debug/netcoreapp2.0/SheepFit6.runtimeconfig.json
+C:/ACCTMIS 3610/sheepfitfinal/bin/Debug/netcoreapp2.0/SheepFit6.runtimeconfig.dev.json
+C:/ACCTMIS 3610/sheepfitfinal/bin/Debug/netcoreapp2.0/SheepFit6.dll
+C:/ACCTMIS 3610/sheepfitfinal/bin/Debug/netcoreapp2.0/SheepFit6.pdb
+C:/ACCTMIS 3610/sheepfitfinal/obj/Debug/netcoreapp2.0/SheepFit6.csproj.CoreCompileInputs.cache
+C:/ACCTMIS 3610/sheepfitfinal/obj/Debug/netcoreapp2.0/SheepFit6.AssemblyInfoInputs.cache
+C:/ACCTMIS 3610/sheepfitfinal/obj/Debug/netcoreapp2.0/SheepFit6.AssemblyInfo.cs
+C:/ACCTMIS 3610/sheepfitfinal/obj/Debug/netcoreapp2.0/SheepFit6.dll
+C:/ACCTMIS 3610/sheepfitfinal/obj/Debug/netcoreapp2.0/SheepFit6.pdb
+C:/ACCTMIS 3610/sheepfitfinal/obj/Debug/netcoreapp2.0/SheepFit6.csprojResolveAssemblyReference.cache
+/Users/edinacelic/Projects/SheepFit6/SheepFit6/obj/Debug/netcoreapp2.0/SheepFit6.csprojResolveAssemblyReference.cache
