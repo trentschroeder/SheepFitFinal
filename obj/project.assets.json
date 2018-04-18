@@ -13115,8 +13115,9 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Trent\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+
+    "/Users/trentschroeder/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
@@ -13126,6 +13127,7 @@
       "projectPath": "C:\\ACCTMIS 3610\\sheepfitfinal\\SheepFit6.csproj",
       "packagesPath": "C:\\Users\\Trent\\.nuget\\packages\\",
       "outputPath": "C:\\ACCTMIS 3610\\sheepfitfinal\\obj\\",
+
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13133,6 +13135,7 @@
       "configFilePaths": [
         "C:\\Users\\Trent\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
