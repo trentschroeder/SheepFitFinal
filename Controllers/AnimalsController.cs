@@ -53,7 +53,7 @@ namespace SheepFit6.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("ID,sheepID,DOB,Gender")] Animal animal)
+        public async Task<IActionResult> Create([Bind("ID,sheepID,DOB,Gender, Booster, Wormer, Tetanus, Pneumonia, Rabies, Comment")] Animal animal)
         {
             if (ModelState.IsValid)
             {

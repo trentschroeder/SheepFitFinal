@@ -25,7 +25,8 @@ namespace SheepFit6
         {
             services.AddMvc();
             services.AddDbContext<SheepContext>(options =>
-                  options.UseSqlite("Data Source=Sheep.db"));
+                                                options.UseSqlite("Data Source=Sheep.db"));
+            
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
